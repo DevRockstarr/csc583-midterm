@@ -19,3 +19,4 @@ $ npm install
 ```sh
 $ npm start
 ```
+![alt text](https://github.com/DevRockstarr/csc583-midterm/blob/master/milestone.png)
